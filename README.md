@@ -1,7 +1,7 @@
 # OSS Audit Project
 
-Name: Your Name  
-Roll No: Your Roll Number  
+Name: GARGI SINGH
+Registration No: 24BCY10106 
 Software: Git  
 
 ## Scripts
